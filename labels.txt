@@ -1,0 +1,6 @@
+License plate number or Regn number
+VIN number or Chassis number
+Name
+Engine number
+Registration date
+Mfg. date
